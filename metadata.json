@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "Real-time visual photography network featuring algorithmic discovery feeds, stories, and private direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
